@@ -2,7 +2,7 @@ import google_streetview.api as sv
 import googlemaps
 
 # API key
-ky = 'AIzaSyDyqQ-ig5kImEV74t3v3qNTlgCBsU6FRzI'
+ky = ''
 gmaps = googlemaps.Client(key=ky)
 
 # get geocoords of desired address

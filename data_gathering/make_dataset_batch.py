@@ -40,7 +40,7 @@ def main(zipcode):
     sz = '600x600'
 
     # API key
-    ky = 'AIzaSyDyqQ-ig5kImEV74t3v3qNTlgCBsU6FRzI'
+    ky = ''
 
     for idx, row in homes.iterrows():
             
