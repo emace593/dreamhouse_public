@@ -5,7 +5,7 @@ data_gathering: scraping dataset using BeautifulSoup, redfin-houses package, and
 
 public_data_urls.txt: location of dataset available for download from Google Cloud
 
-part1.ipynb: numerical vs. visual regression models for housing costs
+part1.ipynb: numerical vs. visual regression models for housing costs (run this notebook first; it downloads data necessary for part 2)
 
 part2.ipynb: DC-GAN to generate images of homes (based on https://www.tensorflow.org/tutorials/generative/dcgan)
 
